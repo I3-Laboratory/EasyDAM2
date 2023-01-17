@@ -8,3 +8,6 @@ https://forms.gle/HW1zBc9dxqzjT31AA
 
 # Data also available here
 https://github.com/oceam/easyDAMv2
+
+# Instructions
+# The pitaya and mango datasets are thoroughly described in the paper: "Zhang, W., et al., EasyDAM_V2: Efficient Data Labeling Method for Multishape, Cross-Species Fruit Detection. Plant Phenomics, 2022. 2022.". Please, cite this paper for any work related to the pitaya and mango datasets.
